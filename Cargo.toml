@@ -1,0 +1,6 @@
+[package]
+name = "vecthrust"
+version = "0.1.0"
+authors = ["Jean Jung <jean.jung@rocketmail.com>"]
+
+[dependencies]
